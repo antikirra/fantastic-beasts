@@ -1,5 +1,8 @@
 # 🦄 Fantastic Beasts
 
+![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/antikirra/fantastic-beasts/php)
+![Packagist Version](https://img.shields.io/packagist/v/antikirra/fantastic-beasts)
+
 **Generate memorable, anonymous usernames for your PHP applications**
 
 Ever noticed how Google Docs assigns those delightful "Anonymous Zebra" or "Anonymous Elephant" names to users? Or how Telegram contest winners get creative pseudonyms? Fantastic Beasts brings this same whimsical approach to your PHP projects, creating deterministic yet anonymous usernames that are both fun and functional.
@@ -19,7 +22,7 @@ Think of it as giving each user a consistent superhero name that protects their 
 
 Install via Composer:
 
-```bash
+```console
 composer require antikirra/fantastic-beasts:^1
 ```
 
