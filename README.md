@@ -114,7 +114,7 @@ Feel free to submit issues and enhancement requests! The adjective and noun list
 
 ## License
 
-MIT License - see LICENSE file for details.
+MIT License
 
 ---
 
